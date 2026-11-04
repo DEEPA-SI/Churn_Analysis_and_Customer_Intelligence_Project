@@ -212,7 +212,7 @@ jupyter notebook
 
 ## Learning and Project Acknowledgement
 
-This project was developed as part of my practical learning journey in Data Analytics, using an OTT customer churn analysis learning resource by Rishabh Mishra.
+This project was developed as part of my practical learning journey in Data Analytics, using an OTT customer churn analysis learning resource.
 
 The implementation, analysis, and portfolio documentation are intended to demonstrate my learning and application of SQL and Python analytics techniques.
 
